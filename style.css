@@ -1,0 +1,17 @@
+@charset "UTF-8";
+body {
+    background-color: #fee;
+}
+h1 {
+    background-color: #faa;
+}
+div {
+    background-image: url(  ①_____________________  );
+    background-repeat: ②___________ ;
+    background-size: ③__________ ;
+    height: 100vh; 
+}
+p {
+    text-align: ④___________ ;
+    padding-top: 30px;
+}
